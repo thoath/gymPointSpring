@@ -1,4 +1,4 @@
-#gymPoint
+# gymPoint
 
 Api desenvolvida com Spring para funcionalidades de uma academia comum.
 
@@ -11,7 +11,7 @@ Api desenvolvida com Spring para funcionalidades de uma academia comum.
 - Manutenção do checkin do aluno na academia (mongoDb).
 - Login da aplicação com jwt.
 
-#Tecnologias key do projeto :
+# Tecnologias key do projeto :
 - Java.
 - Spring Boot.
 - Spring security
