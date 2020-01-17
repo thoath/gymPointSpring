@@ -12,9 +12,9 @@ Api desenvolvida com Spring para funcionalidades de uma academia comum.
 - Login da aplicação com jwt.
 
 # Tecnologias key do projeto :
-- Java.
+- Java 8.
 - Spring Boot.
-- Spring security
+- Spring security.
 - mongoDb.
 - postgres sql.
 - rabbitMq.
