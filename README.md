@@ -11,6 +11,7 @@ Api desenvolvida com Spring para funcionalidades de uma academia comum.
 - Manutenção do checkin do aluno na academia (mongoDb).
 - Login da aplicação com jwt.
 
+
 # Tecnologias key do projeto :
 - Java 8.
 - Spring Boot.
@@ -19,3 +20,6 @@ Api desenvolvida com Spring para funcionalidades de uma academia comum.
 - postgres sql.
 - rabbitMq.
 - Jwt.
+
+
+Documentação da api através da interface do Swagger 2.
