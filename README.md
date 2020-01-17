@@ -1,4 +1,4 @@
-# gymPoint
+# GymPoint
 
 Api desenvolvida com Spring para funcionalidades de uma academia comum.
 
